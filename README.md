@@ -22,7 +22,7 @@ Currently seeking internship / entry-level opportunities in **Data Analysis / Da
 ## 🛠 Technical Skills  
 
 ### 📊 Data Analysis & Tools
-- Python (Pandas, NumPy – learning & applying)  
+- Python (Pandas, NumPy)  
 - Data cleaning & preprocessing  
 - Exploratory Data Analysis (EDA)  
 - Basic data visualization concepts  
