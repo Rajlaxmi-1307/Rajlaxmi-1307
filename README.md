@@ -1,5 +1,5 @@
 # Hi, I’m Rajlaxmi Dilip Patil 👋  
-### Data Analyst | Backend & Security-Aware Developer  
+### Data Analyst | Full Stack Developer 
 
 I focus on extracting meaningful insights from data while building structured, reliable, and secure systems.  
 My approach combines analytical thinking with backend development and security awareness to design data-driven applications that are both functional and resilient.  
