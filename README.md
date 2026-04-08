@@ -1,11 +1,11 @@
 # Hi, I’m Rajlaxmi Dilip Patil 👋  
 ### Data Analyst | Full Stack Developer 
 
-I am a passionate *Data Analyst and Full Stack Developer* with a strong interest in building data-driven applications.  
+I am a passionate **Data Analyst and Full Stack Developer** with a strong interest in building data-driven applications.  
 
-I enjoy working with data to uncover meaningful insights while also developing backend systems that are structured, secure, and reliable. My approach blends *analytical thinking with practical development skills*, allowing me to create solutions that are both insightful and functional.  
+I enjoy working with data to uncover meaningful insights while also developing backend systems that are structured, secure, and reliable. My approach blends **analytical thinking with practical development skills**, allowing me to create solutions that are both insightful and functional.  
 
-🌱 Currently seeking *internship / entry-level opportunities* in *Data Analysis / Data Science / Full Stack Development*, where I can learn, grow, and contribute to real-world projects.
+🌱 Currently seeking **internship / entry-level opportunities** in **Data Analysis / Data Science / Full Stack Development**, where I can learn, grow, and contribute to real-world projects.
 
 ---
 
@@ -59,10 +59,10 @@ I enjoy working with data to uncover meaningful insights while also developing b
 
 ## 🏆 Achievements & Certifications  
 
-- 🎓 *Microsoft Azure Fundamentals (AZ-900)*  
+- 🎓 **Microsoft Azure Fundamentals (AZ-900)**
   Strong understanding of cloud computing, data, and security concepts  
 
-- 🌱 *Nestlé Nesternship Program 2026 – Resilience*  
+- 🌱** Nestlé Nesternship Program 2026 – Resilience**
   Gained skills in adaptability, problem-solving, and professional growth  
 
 ---
