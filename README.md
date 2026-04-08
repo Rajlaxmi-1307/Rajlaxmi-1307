@@ -60,9 +60,10 @@ I enjoy working with data to uncover meaningful insights while also developing b
 ## 🏆 Achievements & Certifications  
 
 - 🎓 **Microsoft Azure Fundamentals (AZ-900)**
-  Strong understanding of cloud computing, data, and security concepts  
+  Strong understanding of cloud computing, data, and security concepts
+  
 
-- 🌱** Nestlé Nesternship Program 2026 – Resilience**
+- **🌱 Nestlé Nesternship Program 2026 – Resilience**
   Gained skills in adaptability, problem-solving, and professional growth  
 
 ---
