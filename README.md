@@ -1,18 +1,18 @@
 # Hi, I’m Rajlaxmi Dilip Patil 👋  
 ### Data Analyst | Full Stack Developer 
 
-I focus on extracting meaningful insights from data while building structured, reliable, and secure systems.  
-My approach combines analytical thinking with backend development and security awareness to design data-driven applications that are both functional and resilient.  
+I am a passionate *Data Analyst and Full Stack Developer* with a strong interest in building data-driven applications.  
 
-Currently seeking internship / entry-level opportunities in **Data Analysis / Data Science**, where I can apply analytical skills, grow under mentorship, and contribute to real-world problem solving.
+I enjoy working with data to uncover meaningful insights while also developing backend systems that are structured, secure, and reliable. My approach blends *analytical thinking with practical development skills*, allowing me to create solutions that are both insightful and functional.  
+
+🌱 Currently seeking *internship / entry-level opportunities* in *Data Analysis / Data Science / Full Stack Development*, where I can learn, grow, and contribute to real-world projects.
 
 ---
 
 ## 🔍 Core Focus
 
 - Data analysis & interpretation  
-- Data cleaning, preprocessing, and transformation  
-- Backend-driven data workflows  
+- Data cleaning, preprocessing, and transformation    
 - Data visualization & reporting  
 - Security-aware data handling  
 - Analytical problem-solving  
@@ -59,11 +59,11 @@ Currently seeking internship / entry-level opportunities in **Data Analysis / Da
 
 ## 🏆 Achievements & Certifications  
 
-- **Microsoft Azure Fundamentals (AZ-900)** – Certified  
-  Understanding of cloud, data, and security concepts  
+- 🎓 *Microsoft Azure Fundamentals (AZ-900)*  
+  Strong understanding of cloud computing, data, and security concepts  
 
-- **Nestlé E-learning 2026 – Resilience | Nestlé Nesternship Program | 2026**
-  Developed resilience, adaptability, problem-solving, and professional workplace skills.
+- 🌱 *Nestlé Nesternship Program 2026 – Resilience*  
+  Gained skills in adaptability, problem-solving, and professional growth  
 
 ---
 
